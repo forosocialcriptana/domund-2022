@@ -3,7 +3,7 @@ format:
   revealjs:
     theme: dark
     transition: slide
-    background-transition: fade
+    background-transition: zoom
     transition-speed: slow
     menu: false
     progress: false
@@ -21,11 +21,9 @@ format:
 ![](img/img2.jpg)
 :::
 
-
-# Un sacerdote diocesano al servicio de la misión universal {background-image="img/img1.jpg"}
+## Un sacerdote diocesano al servicio de la misión universal {background-image="img/img1.jpg" autoslide=5000}
 
 <audio data-autoplay data-ignore src="media/mision1.mp3"></audio>
-
 
 ## Diócesis de Bluefields {background-image="img/img2.jpg"}
 
