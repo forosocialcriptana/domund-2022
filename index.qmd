@@ -1,0 +1,92 @@
+---
+format:
+  revealjs:
+    theme: dark
+    transition: slide
+    background-transition: fade
+    transition-speed: slow
+    menu: false
+    progress: false
+--- 
+
+## Domund 2022
+
+### Misión de Ángel Almansa en Nicaragua
+
+::: {layout="[35,65]"}
+![](img/domund-2022.jpg)
+
+![](img/img2.jpg)
+:::
+
+
+# Un sacerdote diocesano al servicio de la misión universal {background-image="img/img1.jpg"}
+
+<audio data-autoplay data-ignore src="musica/mision1.mp3"></audio>
+
+
+## Diócesis de Bluefields {background-image="img/img2.jpg"}
+
+## {background-image="img/img3.jpg"}
+
+## {background-image="img/img4.jpg"}
+
+## {background-image="img/img5.jpg"}
+
+## {background-image="img/img6.jpg"}
+
+## {background-image="img/img7.jpg"}
+
+## {background-image="img/img8.jpg" background-size="contain"}
+
+## {background-image="img/img9.jpg"}
+
+## {background-image="img/img10.jpg" background-size="contain"}
+
+## {background-image="img/img11.jpg"}
+
+## {background-image="img/img12.jpg"}
+
+## {background-image="img/img13.jpg" background-size="contain"}
+
+## {background-image="img/img14.jpg"}
+
+## {background-image="img/img15.jpg"}
+
+## {background-image="img/img16.jpg"}
+
+## {background-image="img/img17.jpg" background-size="contain"}
+
+## {background-image="img/img18.jpg"}
+
+## {background-image="img/img19.jpg" background-size="contain"}
+
+## {background-image="img/img20.jpg" background-size="contain"}
+
+## {background-image="img/img21.jpg"}
+
+## {background-image="img/img22.jpg" background-size="contain"}
+
+## {background-image="img/img23.jpg"}
+
+## {background-image="img/img25.jpg"}
+
+## {background-image="img/img26.jpg"}
+
+<!-- ## {background-image="img/img27.jpg"} -->
+
+## {background-image="img/img28.jpg"}
+
+<!-- ## {background-image="img/img29.jpg"} -->
+
+## {background-image="img/img30.jpg"}
+
+## {background-image="img/img31.jpg"}
+
+## {background-image="img/img32.jpg"}
+
+## {background-image="img/img33.jpg"}
+
+## {background-image="img/img34.jpg"}
+
+## {background-image="img/img24.jpg"}
