@@ -7,6 +7,8 @@ format:
     transition-speed: slow
     menu: false
     progress: false
+    auto-slide: 5000
+    loop: true
 --- 
 
 ## Domund 2022
@@ -22,7 +24,7 @@ format:
 
 # Un sacerdote diocesano al servicio de la misión universal {background-image="img/img1.jpg"}
 
-<audio data-autoplay data-ignore src="musica/mision1.mp3"></audio>
+<audio data-autoplay data-ignore src="media/mision1.mp3"></audio>
 
 
 ## Diócesis de Bluefields {background-image="img/img2.jpg"}
@@ -89,4 +91,4 @@ format:
 
 ## {background-image="img/img34.jpg"}
 
-## {background-image="img/img24.jpg"}
+## Una vida de entrega a Dios y a la misión...{background-image="img/img24.jpg"}
